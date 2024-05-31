@@ -1,6 +1,7 @@
 # Sentiment Analysis Project
 
-This project involves loading multiple datasets containing reviews, combining them, calculating sentiment polarity, assigning sentiment labels, and plotting the sentiment distribution.
+This project involves loading multiple datasets containing reviews, combining them, calculating sentiment polarity, assigning sentiment labels, and plotting the sentiment distribution. This `README.md` file provides clear instructions on what the project does, how to set it up, and how to run it. It also includes the necessary code snippets for reference.
+
 
 ## Files
 
@@ -10,7 +11,7 @@ This project involves loading multiple datasets containing reviews, combining th
 - `sentiment_analysis.py`: Python script to perform sentiment analysis.
 - `README.md`: Documentation for the project.
 
-## Dependencies
+## Dependencies 
 
 - pandas
 - textblob
@@ -19,7 +20,6 @@ This project involves loading multiple datasets containing reviews, combining th
 You can install these dependencies using `pip`:
 
 ```bash
-pip install pandas textblob matplotlib
+pip install pandas textblob matplotlib.
 
-Data Loading
-The script starts by loading three CSV datasets using pandas:
+
