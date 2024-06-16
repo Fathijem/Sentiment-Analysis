@@ -1,6 +1,6 @@
 # Sentiment Analysis Project
 
-This project involves loading multiple datasets containing reviews, combining them, calculating sentiment polarity, assigning sentiment labels, and plotting the sentiment distribution. This `README.md` file provides clear instructions on what the project does, how to set it up, and how to run it. It also includes the necessary code snippets for reference.
+This project involves loading multiple datasets containing product reviews for e-commerce applications, combining them, calculating sentiment polarity, assigning sentiment labels, and plotting the sentiment distribution. This `README.md` file provides clear instructions on what the project does, how to set it up, and how to run it. It also includes the necessary code snippets for reference.
 
 
 ## Files
