@@ -69,3 +69,5 @@ To run the sentiment analysis script from the command line, execute:
 ```cmd
 python sentiment_analysis.py
 ```
+### Sample Output
+https://github.com/Fathijem/Sentiment-Analysis/tree/b6d8a2f4aa504908a51dfdc2a3afb1d436452ec5/Sample_Output
